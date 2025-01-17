@@ -1,0 +1,14 @@
+{
+  "name": "tst",
+  "version": "1.0.0",
+  "description": "Select folder",
+  "main": "sel-folder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VoV",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  }
+}
